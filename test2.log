@@ -1,0 +1,99 @@
+INFO:root:1
+INFO:root:3
+INFO:root:3
+INFO:root:5
+INFO:root:3
+INFO:root:5
+INFO:root:7
+INFO:root:45
+INFO:root:5
+INFO:root:23
+INFO:root:3
+INFO:root:7
+INFO:root:142
+INFO:root:18929272320000
+INFO:root:[1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'k1', 'k2', 'k3', 3, 7, 'iNeuron', 'data science']
+INFO:root:k1
+INFO:root:k2
+INFO:root:k3
+INFO:root:iNeuron
+INFO:root:data science
+INFO:root:(2, 3, 4, 5, 6)
+INFO:root:(3, 4, 5, 6, 7)
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root:5
+INFO:root:6
+INFO:root:3
+INFO:root:4
+INFO:root:5
+INFO:root:6
+INFO:root:7
+INFO:root:45
+INFO:root:4
+INFO:root:5
+INFO:root:23
+INFO:root:3
+INFO:root:7
+INFO:root:k2
+INFO:root:iNeuron
+WARNING:root:No such element
+INFO:root:{'k1': 'sudh', 'k2': 'iNeuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO:root:[1, 2, 3, 4]
+INFO:root:['iNeuron', 'data science']
+INFO:root:1
+INFO:root:3
+INFO:root:3
+INFO:root:5
+INFO:root:3
+INFO:root:5
+INFO:root:7
+INFO:root:45
+INFO:root:5
+INFO:root:23
+INFO:root:3
+INFO:root:7
+INFO:root:2
+INFO:root:2
+INFO:root:1
+INFO:root:142
+INFO:root:18929272320000
+INFO:root:[1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'k1', 'k2', 'k3', 3, 7, 'iNeuron', 'data science']
+INFO:root:k1
+INFO:root:k2
+INFO:root:k3
+INFO:root:iNeuron
+INFO:root:data science
+INFO:root:(2, 3, 4, 5, 6)
+INFO:root:(3, 4, 5, 6, 7)
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root:5
+INFO:root:6
+INFO:root:3
+INFO:root:4
+INFO:root:5
+INFO:root:6
+INFO:root:7
+INFO:root:45
+INFO:root:4
+INFO:root:5
+INFO:root:23
+INFO:root:3
+INFO:root:7
+INFO:root:k2
+INFO:root:iNeuron
+WARNING:root:No such element
+INFO:root:{'k1': 'sudh', 'k2': 'iNeuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO:root:[1, 2, 3, 4]
+INFO:root:['iNeuron', 'data science']

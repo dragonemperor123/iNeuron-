@@ -1,0 +1,9 @@
+INFO:root:[{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO:root:234
+INFO:root:456
+INFO:root:[345, 56, 87, 8, 98, 9]
+INFO:root:sudh
+INFO:root:key1
+INFO:root:234
+INFO:root:sudh
+INFO:root:[23, 45, 656]
