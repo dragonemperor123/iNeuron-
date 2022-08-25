@@ -1,0 +1,68 @@
+INFO:root:You have been enrolled
+INFO:root:Name is:
+INFO:root:Adwait
+INFO:root:surname is:
+INFO:root:Sawant
+INFO:root:Branch is:
+INFO:root:Mumbai
+INFO:root:you have been registered in the fsds batch
+INFO:root:Sawant
+INFO:root:The number of students is as follows
+INFO:root:Name is:
+INFO:root:Adwait
+INFO:root:Roll number is:
+INFO:root:21
+INFO:root:College is:
+INFO:root:Amity
+INFO:root:The number of placed students are as follows
+INFO:root:21
+INFO:root:the name of your class is class!
+INFO:root:<bound method class_name.name of <__main__.time object at 0x000002BF154E5000>>
+INFO:root:The id is:
+INFO:root:3
+INFO:root:The access modifier of this variable is:
+INFO:root:private
+INFO:root:The timing of your class class is 3-8PM!
+INFO:root:3
+INFO:root:The type of your class is parent
+INFO:root:<bound method class_type.type of <__main__.child object at 0x000002BF154E5060>>
+INFO:root:Is it set:
+INFO:root:Yes
+INFO:root:Is it mutable
+INFO:root:No
+INFO:root:The type of your class is child
+INFO:root:Yes
+INFO:root:the number of courses is x
+INFO:root:4
+INFO:root:name of course
+INFO:root:fsds
+INFO:root:Total courses
+INFO:root:10
+INFO:root:The information about the courses is as follows
+INFO:root:4
+INFO:root:The affiliates you have are x,y,z
+INFO:root:8
+INFO:root:Location of them
+INFO:root:Mumbai
+INFO:root:Slots
+INFO:root:8
+INFO:root:Number of non affiliates is:
+INFO:root:Mumbai
+INFO:root:The blogs you have created are a,b,c
+INFO:root:Name of blog
+INFO:root:High School
+INFO:root:Number of pages
+INFO:root:10
+INFO:root:Type of blog
+INFO:root:Story
+INFO:root:The videos you have created are as follows
+INFO:root:10
+INFO:root:The internships you have under your belt are l,m,n
+INFO:root:The internships you have completed are m
+INFO:root:Fresher
+INFO:root:Your current job is t
+INFO:root:your dream job is x
+INFO:root:Fresher
+INFO:root:You are upto date with the current portion. Go ahead now!
+INFO:root:You have completed the c,v which are not taught yet
+INFO:root:MongoDB
